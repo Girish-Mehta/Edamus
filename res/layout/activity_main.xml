@@ -15,9 +15,11 @@
         <com.example.bunbun.dconnect.DrawPadView
             android:id="@+id/drawPadView1"
             android:background="#ffffffff"
+            android:scrollbars="horizontal|vertical"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
     </RelativeLayout>
+
 
 </RelativeLayout>
