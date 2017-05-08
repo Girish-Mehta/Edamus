@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">EDAMUS</string>
+    <string name="welcome">EDAMUS</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello World!</string>
+    <string name="slide_1_desc">The easiest way to connect with people across the world!</string>
+
+    <string name="slide_2_title">Secret Writing</string>
+    <string name="slide_2_desc">Write to your special people and friends in your own handwriting!</string>
+
+    <string name="slide_3_title">Connect with people</string>
+    <string name="slide_3_desc">Connect with every single person !</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="register">No Account yet? Create one</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register_in_short">Register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="gotit">Got it</string>
+    <string name="join">Join</string>
+    <string name="generate">Generate</string>
+    <string name="session">Session ID</string>
+</resources>
